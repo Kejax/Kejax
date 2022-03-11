@@ -4,4 +4,4 @@ Currently I'm developing a new Discord Bot where every user can create a profile
 
 I'm very interested in different python libs, Java programming and a lot of other things with programming
 
-Check out my discord wher mostly find me: [Discord Invite](https://discord.gg/pZsZpYvXBK)
+Check out my discord where mostly find me: [Discord Invite](https://discord.gg/pZsZpYvXBK)
