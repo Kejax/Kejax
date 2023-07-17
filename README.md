@@ -1,7 +1,5 @@
-I'm @Kejax a german Developer and maintainer of the not yet finished [HypixelLib](https://pypi.org/project/HypixelLib) for Python.
+I'm @Kejax a german Developer, 18 years old and currently developing different software around Minecraft.
 
-Currently I'm developing a new Discord Bot where every user can create a profile to show some information about himself.
+My current project is a new version of the Hypixel Skyblock Browser.
 
-I'm very interested in different python libs, Java programming and a lot of other things with programming
-
-Check out my discord where mostly find me: [Discord Invite](https://discord.gg/pZsZpYvXBK)
+I'm trying to stream the development every wednesday in german, but I'll answer any english question as well!
